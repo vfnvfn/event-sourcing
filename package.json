@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "name": "perm",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc ",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@types/node": "^26.6.3",
+    "typescript": "^7.0.2"
+  }
+}
